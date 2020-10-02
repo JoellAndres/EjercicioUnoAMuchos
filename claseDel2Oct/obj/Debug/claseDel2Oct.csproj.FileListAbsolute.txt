@@ -1,0 +1,6 @@
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Juegos\Ejercicios C#\claseDel2Oct\claseDel2Oct\bin\Debug\claseDel2Oct.exe.config
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Juegos\Ejercicios C#\claseDel2Oct\claseDel2Oct\bin\Debug\claseDel2Oct.exe
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Juegos\Ejercicios C#\claseDel2Oct\claseDel2Oct\bin\Debug\claseDel2Oct.pdb
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Juegos\Ejercicios C#\claseDel2Oct\claseDel2Oct\obj\Debug\claseDel2Oct.csprojResolveAssemblyReference.cache
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Juegos\Ejercicios C#\claseDel2Oct\claseDel2Oct\obj\Debug\claseDel2Oct.exe
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Juegos\Ejercicios C#\claseDel2Oct\claseDel2Oct\obj\Debug\claseDel2Oct.pdb
